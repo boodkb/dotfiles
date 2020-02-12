@@ -1,6 +1,5 @@
 directories = []
-files = [ ".bash_profile"
-        , ".bashrc"
+files = [ ".bashrc"
         , ".ghci"
         , ".gitconfig"
         , ".life"
